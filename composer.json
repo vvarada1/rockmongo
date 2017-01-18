@@ -1,5 +1,5 @@
 {
     "require-dev": {
-        "mongodb/mongo-php-driver-legacy": "dev-master"
+        "mongo/mongo": "dev-master"
     }
 }
