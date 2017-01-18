@@ -1,5 +1,5 @@
 {
-    "require": {
-        "ext-mongodb": "*"
+    "require-dev": {
+        "mongodb/mongodb": "dev-master"
     }
 }
