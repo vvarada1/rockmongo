@@ -1,8 +1,8 @@
 {
-    repositories: [
+    "repositories": [
         {
-            'type': 'git',
-            'url': 'https://github.com/mongodb/mongo-php-driver-legacy'
+            "type": "git",
+            "url": "https://github.com/mongodb/mongo-php-driver-legacy"
         }
     ]
 }
