@@ -1,8 +1,5 @@
 {
   "provide": {
     "ext-mongo": "1.6.12"
-  },
-  "require": {
-    "alcaeus/mongo-php-adapter": "dev-master"
-  }
+  } 
 }
