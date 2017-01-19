@@ -1,7 +1,14 @@
 {
-  "require": {
-    "php": "^7.0",
-    "alcaeus/mongo-php-adapter": "dev-master",
-    "ext-mongo": "*"
-  }
+    "require": {
+        "php": ">=7.0.2",
+        "ext-mongodb": ">=1.1.2",
+        "doctrine/mongodb-odm-bundle": "dev-master",
+        "alcaeus/mongo-php-adapter": "dev-composer-install",
+        "mongodb/mongodb": "@beta",
+        "doctrine/mongodb": "dev-master"
+        //...
+    },
+    "provide": {
+        "ext-mongo": "1.6.12"
+    }
 }
