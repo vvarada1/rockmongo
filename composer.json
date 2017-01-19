@@ -1,11 +1,5 @@
 {
-    "type": "package",
-    "name": "alcaeus/adapter-test",
     "provide": {
         "ext-mongo": "1.6.12"
-    },
-    "require": {
-        "alcaeus/mongo-php-adapter": "dev-composer-provide",
-        "doctrine/mongodb": "dev-master"
     }
 }
