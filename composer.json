@@ -6,7 +6,6 @@
         "alcaeus/mongo-php-adapter": "dev-composer-install",
         "mongodb/mongodb": "@beta",
         "doctrine/mongodb": "dev-master"
-        //...
     },
     "provide": {
         "ext-mongo": "1.6.12"
