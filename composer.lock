@@ -1,0 +1,7 @@
+{
+  "source": {
+      "type": "git",
+      "url": "https://github.com/mongodb/mongo-php-driver-legacy.git",
+      "reference": "2de5e9749b4138e8ca9467ac6871f808fcdb5cb7"
+  }
+}
