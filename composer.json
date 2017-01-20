@@ -1,7 +1,4 @@
 {
-    "provide": {
-        "ext-mongo": "1.6.12"
-    },
 	"require": {
         "php": ">=5.3.3"
     }
